@@ -68,13 +68,12 @@ An interactive **HR Analytics Dashboard** built using **Tableau** to analyze emp
 
 ## 🎯 Skills Demonstrated
 
-- Tableau Dashboard Development
+- Tableau
+- Data Visualization
+- Business Intelligence (BI)
 - HR Analytics
-- KPI Design
-- Interactive Data Visualization
-- Business Intelligence
 - Dashboard Design
-- Data Storytelling
+- Data Analysis
 
 ---
 
